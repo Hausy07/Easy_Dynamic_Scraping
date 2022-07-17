@@ -20,3 +20,6 @@ summary(cars)
 head(cars$speed)
 ```
 
+```{r}
+head(cars$dist)
+```
