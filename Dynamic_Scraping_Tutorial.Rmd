@@ -16,3 +16,7 @@ summary(cars)
 ```
 
 
+```{r}
+head(cars$speed)
+```
+
